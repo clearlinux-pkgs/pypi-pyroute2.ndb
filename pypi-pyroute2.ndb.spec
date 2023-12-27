@@ -4,7 +4,7 @@
 #
 Name     : pypi-pyroute2.ndb
 Version  : 0.6.13
-Release  : 26
+Release  : 27
 URL      : https://files.pythonhosted.org/packages/57/44/778d75f95eb2c3a0776ce5304583aef1889c07fddf9d1a51588e4f95fdd6/pyroute2.ndb-0.6.13.tar.gz
 Source0  : https://files.pythonhosted.org/packages/57/44/778d75f95eb2c3a0776ce5304583aef1889c07fddf9d1a51588e4f95fdd6/pyroute2.ndb-0.6.13.tar.gz
 Summary  : Python Netlink library: NDB module
